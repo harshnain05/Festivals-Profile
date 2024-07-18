@@ -6,6 +6,7 @@
     text-decoration: none;
     box-sizing: border-box;
     list-style: none;
+    
 }
 
 section {
@@ -15,6 +16,7 @@ section {
     align-items: center;
     align-content: center;
     background: #FFFFFF;
+    overflow: hidden;
 }
 
 
@@ -85,7 +87,7 @@ section {
     padding-right: 12px;
 }
 
-.cl-6 {
+.clr-6 {
     color: #666666;
 }
 
@@ -439,7 +441,6 @@ section {
     border-radius: 35px !important;
     border: 1px solid #9CA1BE;
     color: #666666;
-    font-family: Poppins;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
@@ -474,7 +475,6 @@ section {
 }
 
 .modal-text {
-    font-family: Poppins;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
@@ -527,11 +527,6 @@ section {
     max-width: 1199px;
 
 
-}
-
-footer {
-    background: #000;
-    height: 435px;
 }
 
 .last-para1 {
@@ -600,7 +595,6 @@ footer {
 }
 
 .evenstfree-footer {
-    font-family: Poppins;
     font-size: 36px;
     font-weight: 700;
     line-height: 48.6px;
@@ -614,7 +608,6 @@ footer {
 
 .lorem-footer {
     max-width: 346px;
-    font-family: Poppins;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -623,7 +616,6 @@ footer {
 }
 
 .head-li {
-    font-family: Poppins;
     font-size: 14px;
     font-weight: 700;
     line-height: 21px;
@@ -632,7 +624,6 @@ footer {
 }
 
 .content-li {
-    font-family: Poppins;
     font-size: 12px;
     font-weight: 400;
     line-height: 18px;
@@ -658,7 +649,6 @@ footer {
 
 
 .copyright {
-    font-family: Poppins;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
